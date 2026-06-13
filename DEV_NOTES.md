@@ -10,3 +10,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-06-06
 - Added .editorconfig for consistent formatting
+
+## 2026-06-13
+- Added CONTRIBUTING.md stub
+- Updated CI cache strategy
+- Verified compatibility with latest runtime version
